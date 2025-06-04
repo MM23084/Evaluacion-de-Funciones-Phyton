@@ -4,7 +4,7 @@
 
 ## Descripción general
 
-Este proyecto contiene una colección de programas en Python desarrollados para resolver distintos problemas clásicos de cálculo numérico, como la evaluación de polinomios, determinación de raíces, interpolación y regresión lineal. El objetivo es ofrecer implementaciones didácticas y funcionales de estos algoritmos, facilitando su comprensión y aplicación.
+Este proyecto contiene una colección de programas en Python desarrollados para resolver distintos problemas de cálculo numérico, como la evaluación de polinomios, determinación de raíces, interpolación y regresión lineal. El objetivo es ofrecer implementaciones didácticas y funcionales de estos algoritmos, facilitando su comprensión y aplicación.
 
 ## Contenido y estructura
 
